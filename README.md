@@ -61,5 +61,3 @@ Dataset: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/n
  **Key Integration Note**:  
 - Power BI pulls live data from Excel, ensuring the dashboard updates when the Excel file is modified.  
 
----
-*For feedback or questions, reach out via [GitHub Issues](https://github.com/yourusername/your-repo/issues).*  
