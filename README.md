@@ -1,6 +1,3 @@
-# neflix-dashboard
-Comprehensive analysis of Netflix's content library
-
 # Netflix Content Analysis Dashboard  
 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data_Source-217346?logo=microsoft-excel)  
